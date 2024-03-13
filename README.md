@@ -6,6 +6,8 @@
 
 ### Esto es otro titulo H3
 
+Este es otro cambio parcial
+
 Esto es un texto descriptivo **Texto en negrita** **texto personalizado**
 
 > Esto es un bloque de texto comentario
