@@ -1,3 +1,8 @@
 aqui los logs
+<<<<<<< HEAD
 cambio local
 no me crea tan hpta
+=======
+cambio remoto
+que joda con esto guey
+>>>>>>> d7b390296137eb9a1db2a7c81f467a4387f58e01
